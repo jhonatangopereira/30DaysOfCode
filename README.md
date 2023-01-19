@@ -9,6 +9,7 @@ Repository created to store 30 Days of Code solutions. This is a set of problems
 </p>
 
 <p align="center">
+  <a href="#-problems">Problems</a>   |   
   <a href="#-technologies">Technologies</a>   |   
   <a href="#memo-license">License</a>
 </p>
